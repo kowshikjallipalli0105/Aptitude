@@ -119,5 +119,3 @@ Permutations are widely used in:
 - **Factorial**: The product of all positive integers up to a given number.
 
 ---
-
-Happy Learning!
